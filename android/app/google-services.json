@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87488362869",
+    "project_id": "medilens-a9fe6",
+    "storage_bucket": "medilens-a9fe6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87488362869:android:28cb986107bcb19ba97b3c",
+        "android_client_info": {
+          "package_name": "com.example.logindemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjlqdLeA11ohAMTtAQ_ZjraxTiHYO4Jb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
