@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # logindemo
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SDP1_Medilens
+>>>>>>> ac72a8d806d8ee080c865c0480b8079e7d956c66
